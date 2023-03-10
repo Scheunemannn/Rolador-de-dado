@@ -1,11 +1,3 @@
-// let faceum = document.getElementById('faceum')
-
-// function cliq(){
-//     return faceum.style.visibility = 'visible'
-// }
-
-
-
 function dados() {
     let resultado = Math.round(Math.random() * 5) + 1
 
@@ -27,7 +19,3 @@ function dados() {
         faceum.src='imagens/face6.jpg'
     }
 }
-
-
-
-// faceum.innerHTML = <img id="faceum" rc="1 face.png
