@@ -1,0 +1,19 @@
+body {overflow: hidden;}
+
+.container {
+    height:100vh;
+    width: 100vw;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.dado {
+    margin-bottom: 30px;
+}
+
+.botao button {
+    font-size: 30px;
+}
